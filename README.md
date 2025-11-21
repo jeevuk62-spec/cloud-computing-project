@@ -37,11 +37,3 @@ The application uses JWT for user authentication and authorization.
 Role-based access control ensures that users have the necessary permissions for certain operations.
 The system includes error handling and returns meaningful messages for different scenarios.
 Feel free to explore and extend the functionality of the RBAC system based on your specific requirements. If you have any questions or encounter issues, please refer to the documentation or contact the project maintainers.
-
-Happy coding!
-
-![role](https://github.com/SarahAbuirmeileh/Express-RBAC/assets/127017088/8703c2e3-0666-4960-9e44-5909b5e71b2e)
-
-<br><br>
-
-![permission](https://github.com/SarahAbuirmeileh/Express-RBAC/assets/127017088/60dada22-f323-4968-ac17-f7f4dfbdec6b)
